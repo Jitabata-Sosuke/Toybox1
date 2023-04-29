@@ -1,4 +1,4 @@
-3
+4
 Source installation information for modders
 -------------------------------------------
 This code follows the Minecraft Forge installation methodology. It will apply
